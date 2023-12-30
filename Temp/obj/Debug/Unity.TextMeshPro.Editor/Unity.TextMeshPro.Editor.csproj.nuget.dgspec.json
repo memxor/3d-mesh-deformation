@@ -1,0 +1,333 @@
+{
+  "format": 1,
+  "restore": {
+    "/media/home/Local/Unity/Projects/Mesh Deformation/Unity.TextMeshPro.Editor.csproj": {}
+  },
+  "projects": {
+    "/media/home/Local/Unity/Projects/Mesh Deformation/Unity.TextMeshPro.Editor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/media/home/Local/Unity/Projects/Mesh Deformation/Unity.TextMeshPro.Editor.csproj",
+        "projectName": "Unity.TextMeshPro.Editor",
+        "projectPath": "/media/home/Local/Unity/Projects/Mesh Deformation/Unity.TextMeshPro.Editor.csproj",
+        "packagesPath": "/home/home/.nuget/packages/",
+        "outputPath": "/media/home/Local/Unity/Projects/Mesh Deformation/Temp/obj/Debug/Unity.TextMeshPro.Editor/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/home/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "/media/home/Local/Unity/Projects/Mesh Deformation/Unity.TextMeshPro.csproj": {
+                "projectPath": "/media/home/Local/Unity/Projects/Mesh Deformation/Unity.TextMeshPro.csproj"
+              },
+              "/media/home/Local/Unity/Projects/Mesh Deformation/UnityEditor.TestRunner.csproj": {
+                "projectPath": "/media/home/Local/Unity/Projects/Mesh Deformation/UnityEditor.TestRunner.csproj"
+              },
+              "/media/home/Local/Unity/Projects/Mesh Deformation/UnityEditor.UI.csproj": {
+                "projectPath": "/media/home/Local/Unity/Projects/Mesh Deformation/UnityEditor.UI.csproj"
+              },
+              "/media/home/Local/Unity/Projects/Mesh Deformation/UnityEngine.TestRunner.csproj": {
+                "projectPath": "/media/home/Local/Unity/Projects/Mesh Deformation/UnityEngine.TestRunner.csproj"
+              },
+              "/media/home/Local/Unity/Projects/Mesh Deformation/UnityEngine.UI.csproj": {
+                "projectPath": "/media/home/Local/Unity/Projects/Mesh Deformation/UnityEngine.UI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.114/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/media/home/Local/Unity/Projects/Mesh Deformation/Unity.TextMeshPro.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/media/home/Local/Unity/Projects/Mesh Deformation/Unity.TextMeshPro.csproj",
+        "projectName": "Unity.TextMeshPro",
+        "projectPath": "/media/home/Local/Unity/Projects/Mesh Deformation/Unity.TextMeshPro.csproj",
+        "packagesPath": "/home/home/.nuget/packages/",
+        "outputPath": "/media/home/Local/Unity/Projects/Mesh Deformation/Temp/obj/Debug/Unity.TextMeshPro/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/home/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "/media/home/Local/Unity/Projects/Mesh Deformation/UnityEditor.UI.csproj": {
+                "projectPath": "/media/home/Local/Unity/Projects/Mesh Deformation/UnityEditor.UI.csproj"
+              },
+              "/media/home/Local/Unity/Projects/Mesh Deformation/UnityEngine.UI.csproj": {
+                "projectPath": "/media/home/Local/Unity/Projects/Mesh Deformation/UnityEngine.UI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.114/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/media/home/Local/Unity/Projects/Mesh Deformation/UnityEditor.TestRunner.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/media/home/Local/Unity/Projects/Mesh Deformation/UnityEditor.TestRunner.csproj",
+        "projectName": "UnityEditor.TestRunner",
+        "projectPath": "/media/home/Local/Unity/Projects/Mesh Deformation/UnityEditor.TestRunner.csproj",
+        "packagesPath": "/home/home/.nuget/packages/",
+        "outputPath": "/media/home/Local/Unity/Projects/Mesh Deformation/Temp/obj/Debug/UnityEditor.TestRunner/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/home/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "/media/home/Local/Unity/Projects/Mesh Deformation/UnityEngine.TestRunner.csproj": {
+                "projectPath": "/media/home/Local/Unity/Projects/Mesh Deformation/UnityEngine.TestRunner.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.114/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/media/home/Local/Unity/Projects/Mesh Deformation/UnityEditor.UI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/media/home/Local/Unity/Projects/Mesh Deformation/UnityEditor.UI.csproj",
+        "projectName": "UnityEditor.UI",
+        "projectPath": "/media/home/Local/Unity/Projects/Mesh Deformation/UnityEditor.UI.csproj",
+        "packagesPath": "/home/home/.nuget/packages/",
+        "outputPath": "/media/home/Local/Unity/Projects/Mesh Deformation/Temp/obj/Debug/UnityEditor.UI/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/home/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "/media/home/Local/Unity/Projects/Mesh Deformation/UnityEditor.TestRunner.csproj": {
+                "projectPath": "/media/home/Local/Unity/Projects/Mesh Deformation/UnityEditor.TestRunner.csproj"
+              },
+              "/media/home/Local/Unity/Projects/Mesh Deformation/UnityEngine.TestRunner.csproj": {
+                "projectPath": "/media/home/Local/Unity/Projects/Mesh Deformation/UnityEngine.TestRunner.csproj"
+              },
+              "/media/home/Local/Unity/Projects/Mesh Deformation/UnityEngine.UI.csproj": {
+                "projectPath": "/media/home/Local/Unity/Projects/Mesh Deformation/UnityEngine.UI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.114/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/media/home/Local/Unity/Projects/Mesh Deformation/UnityEngine.TestRunner.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/media/home/Local/Unity/Projects/Mesh Deformation/UnityEngine.TestRunner.csproj",
+        "projectName": "UnityEngine.TestRunner",
+        "projectPath": "/media/home/Local/Unity/Projects/Mesh Deformation/UnityEngine.TestRunner.csproj",
+        "packagesPath": "/home/home/.nuget/packages/",
+        "outputPath": "/media/home/Local/Unity/Projects/Mesh Deformation/Temp/obj/Debug/UnityEngine.TestRunner/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/home/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.114/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/media/home/Local/Unity/Projects/Mesh Deformation/UnityEngine.UI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/media/home/Local/Unity/Projects/Mesh Deformation/UnityEngine.UI.csproj",
+        "projectName": "UnityEngine.UI",
+        "projectPath": "/media/home/Local/Unity/Projects/Mesh Deformation/UnityEngine.UI.csproj",
+        "packagesPath": "/home/home/.nuget/packages/",
+        "outputPath": "/media/home/Local/Unity/Projects/Mesh Deformation/Temp/obj/Debug/UnityEngine.UI/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/home/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.114/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
